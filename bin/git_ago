@@ -1,0 +1,1 @@
+git diff $(git rev-list -n1 --before="$1 ago" master)
