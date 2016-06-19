@@ -1,0 +1,11 @@
+RowNum,Official.Gene.Symbol,RefSeqID,Probe,Remarks
+1083,PROM1,NM_006017,Hs01009250_m1,
+1052,IGDCC3,NM_004884,Hs00402733_m1,
+1045,MUC1,NM_001044391,Hs00159357_m1,
+1001,RAB17,NM_022449,Hs00940833_m1,
+537,GDPD3,NM_024307,Hs00225626_m1,
+4814,TRIM14,NM_014788,Hs00207650_m1,
+4795,EFNB1,NM_004429,Hs00270004_m1,
+4822,RBM38,NM_017495,Hs00955733_m1,
+4751,HUWE1,NM_031407,Hs00948075_m1,
+4468,IRF2,NM_002199,Hs01082884_m1,"Based on assay re-evaluation in August 2010 , the following SNP(s) [rs73005101,rs77140332] are located under a probe or primer sequence. To help evaluate the possible impact of this SNP on your experiment, please refer to the Entrez SNP database human dbsnp131 at NCBI. A higher minor allele frequency in your population represents a higher risk to assay performance. Please contact Tech Support if you need more information."
